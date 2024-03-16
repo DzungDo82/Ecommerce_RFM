@@ -1,4 +1,5 @@
-# Ecommerce_RFM
+# E-Commerce sales (Customer-Centric Business Intelligence)
+### Tool used: Python (Machine Learning and Deep Learning)
 
 -	Leveraged the E-Commerce dataset, conducted customer segmentation to optimize marketing strategies and uncover insights into sales trends, customer behavior, and product popularity for the business specializing in unique products.
 -	Successfully aligned business objectives with quantifiable metrics, resulting in more effective and targeted marketing strategies when implementing the RFM model, which evaluates customer behavior based on recency, frequency, and monetary factors.
